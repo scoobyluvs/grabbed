@@ -11,7 +11,7 @@
 
 ## more info 
 
-Libs to run the program : `pip install requests` `pip install browser_cookies3`
+Libs to run the program : `pip install requests` `pip install browser_cookie3`
 
 credits ; scooby
 
