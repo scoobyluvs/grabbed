@@ -1,5 +1,13 @@
 # Simple Roblox Cookie grabber 
 
+# dont work anymore. 7/10/24
+
+# dont work anymore. 7/10/24
+
+# dont work anymore. 7/10/24
+
+
+
 ***Simple python script use for roblox***
 
 #### What it does it grab
